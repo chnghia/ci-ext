@@ -26,7 +26,7 @@ class Forms extends MY_Controller {
 		// load language file
 		
 		$this->template
-			->title(lang('header_page_forms').' - SWA-EXT')
+			->title(lang('header_page_forms').' - CI-EXT')
 			->build('forms/index');
 	}
 }

@@ -27,7 +27,7 @@ class Types extends MY_Controller {
 		$this->lang->load('types');
 		
 		$this->template
-			->title('SWA-EXT')
+			->title('CI-EXT')
 			->build('types/index');
 	}
 }

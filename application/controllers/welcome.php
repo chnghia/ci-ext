@@ -29,7 +29,7 @@ class Welcome extends MY_Controller {
 		$this->lang->load('default');
 		
 		$this->template
-			->title(lang('header_page_home').' - SWA-EXT')
+			->title(lang('header_page_home').' - CI-EXT')
 			->build('welcome');
 	}
 }

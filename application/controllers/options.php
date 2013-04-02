@@ -27,7 +27,7 @@ class Options extends MY_Controller {
 		$this->lang->load('options');
 		
 		$this->template
-			->title('SWA-EXT')
+			->title('CI-EXT')
 			->build('options/index');
 	}
 	
