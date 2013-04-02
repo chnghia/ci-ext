@@ -1,7 +1,7 @@
 <div id="hdrwrap">
 	<div class="innerhdr">
 	<h1>
-		<a href="<?php echo site_url('home');?>" title="SWA-EXT" class="logo">SWA-EXT</a>
+		<a href="<?php echo site_url('home');?>" title="CI-EXT" class="logo">CI-EXT</a>
 		<div class="auth">
 			<?/* if ($logged) : ?>
 			<?echo lang('header_welcome'); ?> <strong><? echo $user_name; ?></strong>
